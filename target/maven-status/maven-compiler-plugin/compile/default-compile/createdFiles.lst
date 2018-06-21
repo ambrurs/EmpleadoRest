@@ -1,0 +1,16 @@
+co\com\rest\clientsoap\ObjectFactory.class
+co\com\rest\service\EmpleadoService.class
+co\com\rest\clientsoap\ListarEmpleadosResponse.class
+co\com\rest\clientsoap\EditarEmpleadoResponse.class
+co\com\rest\clientsoap\EliminarEmpleado.class
+co\com\rest\clientsoap\EmpleadoService_Service.class
+co\com\rest\clientsoap\EmpleadoService.class
+co\com\rest\clientsoap\Hello.class
+co\com\rest\clientsoap\ListarEmpleados.class
+co\com\rest\clientsoap\CrearEmpleado.class
+co\com\rest\clientsoap\EliminarEmpleadoResponse.class
+co\com\rest\clientsoap\package-info.class
+co\com\rest\clientsoap\CrearEmpleadoResponse.class
+co\com\rest\clientsoap\EditarEmpleado.class
+co\com\rest\clientsoap\HelloResponse.class
+co\com\rest\clientsoap\Empelado.class
